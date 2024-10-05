@@ -35,7 +35,7 @@ Before setting up AI Coder, ensure you have the following installed on your syst
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/ai-coder.git
+   git clone https://github.com/crazycoder35/CodeAI.git
    cd ai-coder
    ```
 
